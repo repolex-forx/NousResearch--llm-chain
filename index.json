@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "llm-chain",
+  "versions": [
+    {
+      "commit": "d1c2abfecefa352cac2604d2a7aa2a84f074f641",
+      "tag": "",
+      "parsed_at": "2026-10-09T16:06:07.643740+00:00"
+    }
+  ]
+}
